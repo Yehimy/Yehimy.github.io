@@ -1,0 +1,18 @@
+    body {
+        background: rgb(204, 255, 215);
+        font-family:fantasy;
+    }
+    h1 {
+        font-family: sans-serif;
+    }
+    #food {
+        width:200px;
+        float:left;
+        margin:5px 10px 5px 10px;
+    }
+    #vinculo {
+        background:rgb(232, 177, 232);
+        float:right;
+        width:250px;
+        margin:2px 5px;
+    }
